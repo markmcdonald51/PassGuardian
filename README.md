@@ -1,5 +1,8 @@
 # PassGuardian
 
+Please note: this is a backup to github of the 2015 work of Alexander Stetsyuk <alex AT passguardian.com> from http://passguardian.com/ in order to preserve this wonderful piece of work powered the genius of (https://en.wikipedia.org/wiki/Adi_Shamir) then transcribed into by javascript lib secrets.js (https://github.com/grempe/secrets.js).
+  
+
 Never store your secrets in one place again.
 
 Store and share your secrets safely by splitting them into cryptographically-secure pieces. To reconstruct the original, combine a specific number of these pieces. It's simple, secure, and free.
