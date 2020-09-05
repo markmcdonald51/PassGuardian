@@ -2,6 +2,10 @@
 
 Please note: this is a backup to github of the 2015 work of Alexander Stetsyuk <alex AT passguardian.com> from http://passguardian.com/ in order to preserve this wonderful piece of work powered the genius of (https://en.wikipedia.org/wiki/Adi_Shamir) then transcribed into by javascript lib secrets.js (https://github.com/grempe/secrets.js).
   
+# Shamir's Secret Sharing is an algorithm in cryptography created by Adi Shamir. It is a form of secret sharing, where a secret is divided into parts, giving each participant its own unique part.
+
+To reconstruct the original secret, a minimum number of parts is required. In the threshold scheme this number is less than the total number of parts. Otherwise all participants are needed to reconstruct the original secret.
+  More explaination: https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing
 
 # Never store your secrets in one place again.
 
